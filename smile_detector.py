@@ -42,4 +42,4 @@ while True :
 webcam.release()
 cv2.destroyAllWindows()    
 
-print("whats")
+print("Code completed")
